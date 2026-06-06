@@ -1,6 +1,0 @@
-{
-  "name": "Finanças",
-  "description": "Um aplicativo de controle financeiro pessoal completo, moderno e elegante.",
-  "requestFramePermissions": [],
-  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
-}
